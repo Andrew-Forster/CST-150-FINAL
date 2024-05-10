@@ -1,0 +1,5 @@
+Dining Table,Solid wood dining table with elegant design,500,100,🍽️
+Sofa Set,Comfortable sofa set with plush cushions,800,4200,🛋️
+Refrigerator,Large capacity refrigerator with energy-saving features,1200,3,🧊
+Bed Frame,Sturdy bed frame with modern design,600,74000,🛏️
+Kitchen Knife Set,High-quality stainless steel knife set for kitchen use,50,2000,🍴

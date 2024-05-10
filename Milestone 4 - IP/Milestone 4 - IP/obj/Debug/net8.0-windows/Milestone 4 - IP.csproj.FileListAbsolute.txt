@@ -1,0 +1,19 @@
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\bin\Debug\net8.0-windows\Milestone 4 - IP.exe
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\bin\Debug\net8.0-windows\Milestone 4 - IP.deps.json
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\bin\Debug\net8.0-windows\Milestone 4 - IP.runtimeconfig.json
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\bin\Debug\net8.0-windows\Milestone 4 - IP.dll
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\bin\Debug\net8.0-windows\Milestone 4 - IP.pdb
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone_2___Inventory_Project.UserControlUploadInv.resources
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone_2___Inventory_Project.MainForm.resources
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone 4 - IP.csproj.GenerateResource.cache
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone 4 - IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone 4 - IP.AssemblyInfoInputs.cache
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone 4 - IP.AssemblyInfo.cs
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone 4 - IP.csproj.CoreCompileInputs.cache
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone 4 - IP.dll
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\refint\Milestone 4 - IP.dll
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone 4 - IP.pdb
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone 4 - IP.genruntimeconfig.cache
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\ref\Milestone 4 - IP.dll
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone_4___IP.Properties.Resources.resources
+C:\Users\forst\source\repos\Milestone 4 - IP\Milestone 4 - IP\obj\Debug\net8.0-windows\Milestone_4___IP.Presentation_Layer.Search.resources
